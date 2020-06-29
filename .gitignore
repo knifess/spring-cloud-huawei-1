@@ -30,3 +30,9 @@ hs_err_pid*
 *.iws
 target/
 
+# Eclipse Project files
+.classpath
+.project
+.settings/
+.settings
+target/
